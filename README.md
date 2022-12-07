@@ -1,6 +1,5 @@
 # How to change the nonworking days in Xamarin.Forms Schedule (SfSchedule)
 
-
 You can customize the non-working days of a week by using the [NonWorkingDays](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfSchedule.XForms.WorkWeekViewSettings.html#Syncfusion_SfSchedule_XForms_WorkWeekViewSettings_NonWorkingsDays) property of [WorkWeekViewSettings](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfSchedule.XForms.WorkWeekViewSettings.html) in Xamarin.Forms [SfSchedule](https://www.syncfusion.com/xamarin-ui-controls/xamarin-scheduler).
 
 **C#**
